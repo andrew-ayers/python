@@ -1,0 +1,26 @@
+// CIA Game - rooms.dat room data file - 10 rooms total
+//
+// Format:
+//
+// 	room description~N_exit~E_exit~S_exit~W_exit
+//
+// Room 1
+You are in your office at the CIA. On the shelves are tools you've used in past missions. Ambassador Griminski's apartment is north.~2~0~0~0
+// Room 2
+You are at 14 Parkside Avenue, the entrance to Ambassador Griminski's small but elegant bachelor apartment. You see a heavy wooden door with a notice on it warning of an alarm system.~0~0~1~0
+// Room 3
+This is the marbled foryer of the Ambassador's apartment. There is a table in the corner. The master bedroom is east, the drawing room is north, and a closet is west. A fierce dog charges to attack.~0~0~2~0
+// Room 4
+You are in the front hall cedar closet. Heavy overcoats and a trenchcoat are hanging up. Boots are on the floor and other items are in the corner.~0~3~0~0
+// Room 5
+You are in the drawing room. A desk is here. A sofa and a coffee table are in front of the fireplace set into the paneled east wall. The dining room is north.~7~0~3~0
+// Room 6
+You can see a microcomputer and phone modem and monitor on a table against the east wall of this over-sized closet. A phone is by the computer. A chair and shelves are here.~0~0~0~5
+// Room 7
+You are standing in a small formal dining room. The table seats six guests. A sideboard with a tray on it is against the east wall. The kitchen is to the north.~8~0~5~0
+// Room 8  
+You are in the apartment kitchen which shimmers with polished chrome appliances and butcher block counters. A long cabinet above the stainless steel sinks is closed. A freezer stands in the corner.~0~0~7~0
+// Room 9
+This is Ambassador Griminski's bedroom. A bed and bedside table are here. A safe is in the wall above the bureau. The bathroom and dressing area are to the north.~10~0~0~3
+// Room 10
+You are in a combined bathroom and dressing area. The Ambassador's clothes are hanging neatly on rods and open shelves hold towels and sweaters. The medicine cabinet is closed.~0~0~9~0

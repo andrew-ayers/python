@@ -1,0 +1,132 @@
+// Layout
+//
+//	object name~object desc~room~link~value~type
+//
+//	room = room number
+//      link = next object in link list
+//      value = point value of object
+//      type = 1 - takeable
+//	       2 - untakeable
+//             3 - 'on' or too heavy
+//             4 - unlocked
+//             5 - locked,'off', or hidden
+// Object 1
+North~It doesn't help...~100~0~0~4
+// Object 2
+East~It doesn't help...~100~0~0~4
+// Object 3
+South~It doesn't help...~100~0~0~4
+// Object 4
+West~It doesn't help...~100~0~0~4
+// Object 5
+Shelves~Shelves for weapons and tools line the wall next to your desk. There are numerous items which may help you on your assignment:~1~6~0~3
+// Object 6
+Screwdriver~An all-purpose screwdriver with a collapsible handle.~1~7~0~1
+// Object 7
+Bomb~A Mark-MX high-intensity smoke bomb.~1~8~0~1
+// Object 8
+Pistol~An automatic PPK-3 pistol.~1~9~0~1
+// Object 9
+Key~A skeleton key.~1~10~0~1
+// Object 10
+Drug~A small can of Insta-Knockout drug.~1~11~0~1
+// Object 11
+Gun~A Mark-3K harpoon gun with grapple and line.~1~0~0~1
+// Object 12
+Door~The heavy door is painted black. A brass keyhole and doorknob are here. You can see the circular holes on either side of the door which must radiate an electronic alarm beam.~2~13~0~5
+// Object 13
+Alarm~The alarm is screwed into place.~2~0~0~5
+// Object 14
+Dog~The savage doberman leaps toward you with bared fangs. He will not let you past him.~3~0~0~4
+// Object 15
+Table~The venetian front hall table has a tortoise shell letter tray on it for business cards and mail. There is a letter in the tray.~3~0~0~1
+// Object 16
+Letter~This is apparently a telephone bill that has been paid and is being sent to the telephone company.~3~0~10~1
+// Object 17
+Umbrella~There is a black businessman's umbrella with a pointed end.~4~18~0~1
+// Object 18
+Briefcase~There is a black leather briefcase with a combination lock.~4~0~0~1
+// Object 19
+Desk~The large oak desk has a blotter and pen set on it. A phone is here. A blank note pad is by the phone. The desk has a pigeonhole and one drawer in it.~5~0~0~1
+// Object 20
+Pad~Although the note pad is blank, you can see the indentation of writing on it.~5~0~0~1
+// Object 21
+Drawer~This is a standard pull desk drawer.~5~0~0~4
+// Object 22
+Pigeonhole~The pigeonhole has a paid bill in it.~5~0~0~4
+// Object 23
+Bill~The bill is from the telephone company.~5~0~0~1
+// Object 24
+Phone~This is a beige pushbutton desk phone.~5~25~0~4
+// Object 25
+Number~The telephone number is printed on the base.~5~0~0~4
+// Object 26
+Panel~The panels are tongue-in-groove. One of the panels seems more worn than the others.~5~0~0~4
+// Object 27
+Shelves~There are software programs and blank disks and manuals on the shelves.~6~0~0~4
+// Object 28
+Program~One program is for communicating with the U.S. Defense Department's mainframe computer.~6~0~10~5
+// Object 29
+Phone~This is a standard desk-type dial telephone. The receiver is set into a modem.~6~30~0~4
+// Object 30
+Number~The telephone number is printed on the base.~6~0~0~1
+// Object 31
+Computer~This is a standard business type of microcomputer with a keyboard and a program in one of the disk drives. The on/off switch is off.~6~0~0~5
+// Object 32
+Monitor~This is a hi-res color monitor. The on/off switch is off.~6~0~0~5
+// Object 33
+Modem~The phone modem is one that can use an automatic dialing communications program. The on/off switch is off.~6~0~0~5
+// Object 34
+Tray~The silver tray holds a decanter partially filled with claret.~7~0~0~1
+// Object 35
+Decanter~The decanter is of etched crystal. It probably holds some claret.~7~0~0~1
+// Object 36
+Claret~An amber liquid.~7~0~0~1
+// Object 37
+Cabinet~This is a fairly standard kitchen cabinet.~8~0~0~4
+// Object 38
+Bottle~A bottle of capsules are here.~8~39~0~2
+// Object 39
+Capsule~The capsules are elongated and have a slight aroma of burnt almonds.~8~0~0~1
+// Object 40
+Table~The bedside table has a phone on it. A piece of paper and a lamp are here.~9~0~0~3
+// Object 41
+Phone~There is a number printed on the phone.~9~0~0~4
+// Object 42
+Paper~A piece of monogrammed writing paper.~9~43~0~1
+// Object 43
+Combination~There is a combination written on it.~9~0~0~4
+// Object 44
+Safe~This is a standard combination safe.~9~0~0~4
+// Object 45
+Gum~A pack of stick type peppermint gum. Each stick is wrapped in paper.~9~0~0~2
+// Object 46
+Microfilm~The microfilm has been developed but you can't see it without special equipment. Nevertheless, it is pretty certain what you have found.~9~0~10~2
+// Object 47
+Shelves~A very sophisticated camera is on one of the shelves.~10~0~0~4
+// Object 48
+Camera~This camera is used to photograph documents on microfilm.~10~0~10~1
+// Object 49
+Cabinet~This is a large mirrored bathroom cabinet.~10~0~0~4
+// Object 50
+Bureau~A wall safe is set into the wall above the low mahogany carved bureau.~9~0~0~3
+// Object 51
+Bottles~Bottles of fixer and photoflo are on the shelves.~10~52~0~2
+// Object 52
+Tank~There is a film developing tank and a film apron and tank cover here too.~10~0~0~2
+// Object 53
+Headquarters~Headquarters~100~0~0~4
+// Object 54
+Capsules~The capsules are elongated and have a slight aroma of burnt almonds.~8~0~0~1
+// Object 55
+Sideboard~A large ornate sideboard with a beveled glass mirror dominates the east wall.~7~34~0~4
+// Object 56
+Number~The number is printed on the phone.~9~0~0~1
+// Object 57
+Paper~The numbers 2-4-8 are written on a piece of paper on the top of the drawer.~5~0~0~2
+// Object 58
+Griminski~The white-haired man is dressed in evening clothes.~6~0~0~4
+// Object 59
+Corner~You are looking at the corner of the closet.~4~17~0~4
+// Object 60
+Freezer~This is a small white freezer.~8~0~0~5
